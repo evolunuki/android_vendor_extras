@@ -378,10 +378,6 @@ endif
 #    VolumeOutline \
 #    VolumeShadedLayer
 
-# Aod wallpaper
-PRODUCT_PACKAGES += \
-    AODWALL
-
 # Partial screenshot
 PRODUCT_PACKAGES += \
     ScreenshotEditor
