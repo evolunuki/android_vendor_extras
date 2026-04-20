@@ -195,7 +195,6 @@ PRODUCT_PACKAGES += \
     NavbarAndroidPixelLauncherOverlay \
     NavbarAsusPixelLauncherOverlay \
     NavbarDoraPixelLauncherOverlay \
-    NavbarEvolutionPixelLauncherOverlay \
     NavbarMotoPixelLauncherOverlay \
     NavbarNexusPixelLauncherOverlay \
     NavbarOldPixelLauncherOverlay \
@@ -208,7 +207,6 @@ PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
     NavbarDoraOverlay \
-    NavbarEvolutionOverlay \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
     NavbarOldOverlay \
