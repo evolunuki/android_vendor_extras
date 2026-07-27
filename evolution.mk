@@ -5,11 +5,11 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Accord
-TARGET_INCLUDE_ACCORD ?= true
-ifeq ($(TARGET_INCLUDE_ACCORD),true)
+# Gramophone
+TARGET_INCLUDE_GRAMOPHONE ?= false
+ifeq ($(TARGET_INCLUDE_GRAMOPHONE),true)
 PRODUCT_PACKAGES += \
-    Accord
+    Gramophone
 endif
 
 # Clocks (SystemUI)
